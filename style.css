@@ -1,0 +1,57 @@
+
+/* 
+    Created on : 13-Jul-2020, 3:12:41 am
+    Author     : jawed Akhtar
+*/
+
+body{
+    height: 600px;
+    background-image: url("./img/log.jpg");
+    background-repeat: no-repeat;
+    background-position: 95% 95%;
+    background-attachment: fixed;
+    background-size: 100px;
+}
+
+#navigation{
+    background-image: url("./img/bcg4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+    
+}
+.heading{
+    background-color: #009966;
+    width: 100%;
+    text-align: center;
+    height: 60px;
+    padding-top: 5px;
+}
+.container{
+    width:80%;
+    overflow:hidden;
+    padding: 10px;
+}
+.items{
+    
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    line-height: 1.42857143;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    margin-left:3%;
+    
+}
+.thumbnail{
+    display: block;
+    max-width: 10%;
+    height: auto;
+    float: left;
+    padding: 10px;
+    
+}
+h3{
+    text-align: center;
+}
